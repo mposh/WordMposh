@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mposh.github.io/WordMposh",
+  "homepage": "https://mposh.github.io/mposh_textgame",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "deploy -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Oscar Mpoke",
   "license": "MIT",
